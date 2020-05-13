@@ -1,1 +1,3 @@
-# flappy_bird_cc
+# Flappy Bird CC
+
+A simple flappy bird programmed with python
